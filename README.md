@@ -46,13 +46,13 @@
 
 
 
-[website]:  https://abdurrahman-dev.netlify.app/
-[twitter]:  https://abdurrahman-dev.netlify.app/
-[linkedin]:  https://abdurrahman-dev.netlify.app/
-[webdevplaylist]:  https://abdurrahman-dev.netlify.app/
-[jsplaylist]:  https://abdurrahman-dev.netlify.app/
-[cssplaylist]:  https://abdurrahman-dev.netlify.app/
-[reactplaylist]:  https://abdurrahman-dev.netlify.app/
+[website]: 
+[twitter]:  
+[linkedin]: 
+[webdevplaylist]:  
+[jsplaylist]:  
+[cssplaylist]: 
+[reactplaylist]:  
 <br />
 <img alt="Abdur rahman Github Stats" align="" height='156px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
