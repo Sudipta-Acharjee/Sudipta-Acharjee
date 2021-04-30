@@ -1,4 +1,4 @@
-### Hi there, I'm  [Sudipta Acharjee][website] 👋
+### Hi there, I'm  Sudipta Acharjee 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working Mern-Stack Development!
