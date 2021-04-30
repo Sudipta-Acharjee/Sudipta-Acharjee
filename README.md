@@ -39,21 +39,21 @@
 <br/>
 
 ** Programming Languages Skill**
-
+![React](https://img.shields.io/badge/-react.png)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=)
 
 
 
-[website]:  https://abdurrahman-dev.netlify.app/
-[twitter]:  https://abdurrahman-dev.netlify.app/
-[linkedin]:  https://abdurrahman-dev.netlify.app/
-[webdevplaylist]:  https://abdurrahman-dev.netlify.app/
-[jsplaylist]:  https://abdurrahman-dev.netlify.app/
-[cssplaylist]:  https://abdurrahman-dev.netlify.app/
-[reactplaylist]:  https://abdurrahman-dev.netlify.app/
+
+[website]:  https://github.com/Sudipta-Acharjee
+[facebook]: https://www.facebook.com/sudipto.acharjee.739/
+[linkedin]: https://www.linkedin.com/in/sudipta-acharjee-8327b9169/
+[webdevplaylist]:  https://github.com/Sudipta-Acharjee
+[jsplaylist]:  https://github.com/Sudipta-Acharjee
+[cssplaylist]:  https://github.com/Sudipta-Acharjee
+[reactplaylist]:  https://github.com/Sudipta-Acharjee
 <br />
-<img alt="Abdur rahman Github Stats" align="" height='156px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img alt="Sudipta Acharjee Github Stats" align="" height='156px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/abdurrahman200/Abdurrahman)
